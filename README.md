@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serdar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=I'm+a+Flutter+Developer; Passionate+about+building+mobile+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=I'm+a+Flutter+Developer" alt="Typing SVG" />
 </p>
 
 ---
