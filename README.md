@@ -1,27 +1,19 @@
-## Hi there 👋
-
-<!--
-**serdar1205/serdar1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Serdar</h1>
-<h3 align="center">I am a mobile developer</h3>
 
-- 🔭 I’m currently working on [Flutter](https://flutter.dev/multi-platform/mobile)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=I'm+a+Flutter+Developer; Passionate+about+building+mobile+apps" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently learning **Kotlin for android**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🙋‍♂️ About Me:
+
+Hi! I'm a passionate **Flutter Mobile Developer**. Building beautiful, functional, and high-performing apps for Android and iOS.
+
+- 🌱 I’m currently learning **Kotlin for android** and continuously improving my skills in Flutter
+
+### 📬 Connect with me:
+📧 [Email](mailto:serdar12.user@gmail.com)
 <p align="left">
 </p>
 
