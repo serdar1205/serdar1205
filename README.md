@@ -12,8 +12,7 @@ Hi! I'm a passionate **Flutter Mobile Developer**. Building beautiful, functiona
 
 - 🌱 I’m currently learning **Kotlin for android** and continuously improving my skills in Flutter
 
-### 📬 Connect with me:
-📧 [Email](mailto:serdar12.user@gmail.com)
+- 📬 If you want to connect with me: [serdar12.user@gmail.com](mailto:serdar12.user@gmail.com)
 <p align="left">
 </p>
 
